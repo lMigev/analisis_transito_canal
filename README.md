@@ -12,16 +12,23 @@ Para garantizar la correcta ejecución del código, la compatibilidad de las lib
 
 El repositorio está organizado de la siguiente manera:
 
-* **`transito_canal.ipynb`**: Es el Jupyter Notebook principal. Contiene todo el código fuente, la limpieza de datos, el análisis exploratorio, el entrenamiento de los modelos predictivos y las conclusiones del proyecto.
-* **`Resumen Modelos Predictivos.pbix`**: Archivo de Power BI. Contiene los tableros interactivos (dashboards) y la visualización final de los resultados obtenidos por los modelos predictivos.
+* **`transito_canal.ipynb`**: Notebook principal del proyecto. Contiene el flujo completo de análisis:
+  * **`Limpieza y preparación de datos (ETL)`**
+  * **`Análisis exploratorio (EDA)`**
+  * **`Entrenamiento y evaluación de modelos predictivos`**
+  * **`Interpretación de resultados`**
+* **`Resumen Modelos Predictivos.pbix`**: Archivo de Power BI que contiene los tableros interactivos (dashboards) y la visualización final de los resultados obtenidos por los modelos predictivos.
+* **`Power Bi presentación`**: Dashboard final utilizado en la presentación del proyecto, donde se integran los principales hallazgos, métricas y visualizaciones relevantes.
 * **`data/`**: Carpeta que almacena los conjuntos de datos requeridos por el notebook.
   * **`clima_total_2015_2024.csv`**: Archivo CSV que contiene el registro histórico de las variables climáticas (2015-2024), fundamentales para el análisis de impacto ambiental en el canal.
   * **`lock_visit.parquet`**: Datos estructurados sobre las visitas y operaciones en las diferentes esclusas del canal.
   * **`specs.parquet`**: Especificaciones técnicas, dimensiones y características de las embarcaciones analizadas.
   * **`transit.parquet`**: Registro detallado e histórico de los tránsitos realizados a través del canal.
-* **`Anteproyecto y avances`**: Documentos en formato word que contiene información detallada sobre la investigación.
-* **`Artículo científico`**: 
-* **`Imágenes del EDA y modelos predictivos`**: Carpeta que almacena las imágenes de las gráficas correspondientes al EDA y a los modelos utilizados. 
+* **`Documentación`**: Contiene los documentos académicos desarrollados durante el proyecto.
+  * **`Anteproyecto`**: Documento en formato word que contiene información del anteproyecto con la formulación inicial del estudio.
+  * **`Avances`**: Documento en formato word de avance que incluye desarrollo metodológico y primeros análisis.
+  * **`Artículo científico`**: Documento que consolida el estudio completo, incluyendo el planteamiento del problema, el enfoque metodológico basado en analítica de datos, los principales hallazgos y su interpretación, así como las implicaciones para la gestión operativa del Canal de Panamá. 
+* **`Recursos visuales`**: Carpeta que almacena las imágenes generadas durante el análisis exploratorio y el modelado predictivo, utilizadas como apoyo visual en la presentación. 
 
 ## Instrucciones de uso
 
