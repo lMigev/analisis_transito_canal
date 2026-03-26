@@ -19,7 +19,9 @@ El repositorio está organizado de la siguiente manera:
   * **`lock_visit.parquet`**: Datos estructurados sobre las visitas y operaciones en las diferentes esclusas del canal.
   * **`specs.parquet`**: Especificaciones técnicas, dimensiones y características de las embarcaciones analizadas.
   * **`transit.parquet`**: Registro detallado e histórico de los tránsitos realizados a través del canal.
-* **`transito_canal.ipynb`**: Emmmmmmmmmmmmmmmmmmmmmmmmmmmm
+* **`Anteproyecto y avances`**: Documentos en formato word que contiene información detallada sobre la investigación.
+* **`Artículo científico`**: 
+* **`Imágenes del EDA y modelos predictivos`**: Carpeta que almacena las imágenes de las gráficas correspondientes al EDA y a los modelos utilizados. 
 
 ## Instrucciones de uso
 
