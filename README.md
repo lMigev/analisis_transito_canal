@@ -44,4 +44,4 @@ Este proyecto fue desarrollado en equipo. A continuación, los miembros que cont
 
 ## Agradecimientos
 
-Queremos expresar un especial agradecimiento a nuestro profesor, el **Dr. Juan Marcos Castillo**, por su guía, apoyo y conocimientos compartidos, los cuales fueron fundamentales para la realización de este proyecto.
+Queremos expresar un especial agradecimiento a nuestro profesor, el *Dr. Juan Marcos Castillo*, por su guía, apoyo y conocimientos compartidos, los que fueron fundamentales para la realización de este proyecto.
