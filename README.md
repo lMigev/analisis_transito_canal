@@ -2,7 +2,7 @@
 
 Este repositorio contiene el código, los datos y las visualizaciones utilizadas para el análisis del tránsito en el canal y la creación de modelos predictivos basados en factores climáticos históricos y características de las embarcaciones.
 
-## ⚠️ Entorno de Desarrollo: Google Colab
+## Entorno de Desarrollo: Google Colab
 
 **Importante:** El notebook principal de este proyecto (`transito_canal.ipynb`) fue desarrollado íntegramente utilizando el entorno de **Google Colab**. 
 
