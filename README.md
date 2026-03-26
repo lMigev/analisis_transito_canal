@@ -6,7 +6,7 @@ Este repositorio contiene el código, los datos y las visualizaciones utilizadas
 
 **Importante:** El notebook principal de este proyecto (`transito_canal.ipynb`) fue desarrollado íntegramente utilizando el entorno de **Google Colab**. 
 
-Para garantizar la correcta ejecución del código, la compatibilidad de las librerías instaladas y replicar exactamente las mismas condiciones de desarrollo, **se recomienda encarecidamente abrir y ejecutar este notebook en Google Colab**.
+Para garantizar la correcta ejecución del código, la compatibilidad de las librerías instaladas y replicar exactamente las mismas condiciones de desarrollo, **se recomienda abrir y ejecutar este notebook en Google Colab**.
 
 ## Estructura del Repositorio
 
