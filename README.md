@@ -1,14 +1,14 @@
-# Análisis de Tránsito del Canal
+# Análisis de tránsito del canal
 
 Este repositorio contiene el código, los datos y las visualizaciones utilizadas para el análisis del tránsito en el canal y la creación de modelos predictivos basados en factores climáticos históricos y características de las embarcaciones.
 
-## Entorno de Desarrollo: Google Colab
+## Entorno de desarrollo: Google Colab
 
 **Importante:** El notebook principal de este proyecto (`transito_canal.ipynb`) fue desarrollado íntegramente utilizando el entorno de **Google Colab**. 
 
 Para garantizar la correcta ejecución del código, la compatibilidad de las librerías instaladas y replicar exactamente las mismas condiciones de desarrollo, **se recomienda abrir y ejecutar este notebook en Google Colab**.
 
-## Estructura del Repositorio
+## Estructura del repositorio
 
 El repositorio está organizado de la siguiente manera:
 
@@ -19,15 +19,16 @@ El repositorio está organizado de la siguiente manera:
   * **`lock_visit.parquet`**: Datos estructurados sobre las visitas y operaciones en las diferentes esclusas del canal.
   * **`specs.parquet`**: Especificaciones técnicas, dimensiones y características de las embarcaciones analizadas.
   * **`transit.parquet`**: Registro detallado e histórico de los tránsitos realizados a través del canal.
+* **`transito_canal.ipynb`**: Emmmmmmmmmmmmmmmmmmmmmmmmmmmm
 
-## Instrucciones de Uso
+## Instrucciones de uso
 
-### Para el Análisis de Datos y Modelado (Python)
+### Para el análisis de datos y modelado (Python)
 1. Descarga o clona los archivos de este repositorio.
 2. Sube el archivo `transito_canal.ipynb` a tu entorno de Google Colab.
 3. Asegúrate de cargar todo el contenido de la carpeta `data/` (tanto el CSV como los archivos Parquet) en el entorno de ejecución de Colab para que el código pueda leer los datos correctamente.
 
-### Para la Visualización de Resultados (Power BI)
+### Para la visualización de resultados (Power BI)
 1. Debes tener instalado **Microsoft Power BI Desktop**.
 2. Abre el archivo `Resumen Modelos Predictivos.pbix` para interactuar con los dashboards y visualizar los resultados de los modelos.
 
