@@ -38,8 +38,9 @@ Este proyecto fue desarrollado en equipo. A continuación, los miembros que cont
 * Katherine Batista
 * Kely Feng
 * Jeremías Herreras
+* Victoria Rodriguez
 * Miguel Valzania
-* Victoria Vergara
+
 
 ## Agradecimientos
 
