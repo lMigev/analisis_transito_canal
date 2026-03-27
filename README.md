@@ -27,7 +27,6 @@ El repositorio está organizado de la siguiente manera:
 * **`Documentación`**: Contiene los documentos académicos desarrollados durante el proyecto.
   * **`Anteproyecto`**: Documento en formato word que contiene información del anteproyecto con la formulación inicial del estudio.
   * **`Avances`**: Documento en formato word de avance que incluye desarrollo metodológico y primeros análisis.
-  * **`Artículo científico`**: Documento que consolida el estudio completo, incluyendo el planteamiento del problema, el enfoque metodológico basado en analítica de datos, los principales hallazgos y su interpretación, así como las implicaciones para la gestión operativa del Canal de Panamá. 
 * **`Recursos visuales`**: Carpeta que almacena las imágenes generadas durante el análisis exploratorio y el modelado predictivo, utilizadas como apoyo visual en la presentación. 
 
 ## Instrucciones de uso
